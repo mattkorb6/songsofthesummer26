@@ -13,11 +13,11 @@ description: >-
 # GitHub Pages project-site settings.
 # TODO: set `url` to your own GitHub Pages domain (e.g. "https://<your-username>.github.io"),
 # and update `baseurl` to match this repo's name: "/<repo-name>"
-url: "https://your-username.github.io"
+url: "https://mattkorb6.github.io"
 baseurl: "/songsofthesummer26"
 
-author: Your Name
-email: your-email@example.com
+author: Matthew Korbin
+email: matt.korb6@gmail.com
 
 # ------------------------------------------------------------------
 # Build settings
